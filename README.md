@@ -7,8 +7,6 @@
 
 ![AlfredoRuasNeto GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfredoRuasNeto&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoRuasNeto)](https://github.com/AlfredoRuasNeto/github-readme-stats)
-
 Amante da tecnologia, educação e por evoluir a cada dia!
 
 ## Ultimos Projetos

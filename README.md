@@ -1,12 +1,12 @@
-## Olá 👋! Im Alfredo Ruas Neto!
+## Olá 👋! Eu sou Alfredo Ruas Neto!
 
-🚀 Programmer JAVA junior
+🚀 Programador JAVA junior
 
 🇧🇷 Brazil
 
 ---
 
-### 📌 About Me:
+### 📌 Sobre mim:
 
 Entusiasta de tecnologia e estudante de Java, focado em aprender, praticar e construir soluções através do código.
 
@@ -16,7 +16,7 @@ Entusiasta de tecnologia e estudante de Java, focado em aprender, praticar e con
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Com oque eu trabalho:
 
 ![CSS](https://img.shields.io/badge/CSS-FFD43B?&style=for-the-badge&logo=css3&logoColor=)
 ![HTML](https://img.shields.io/badge/HTML-dc143c?style=for-the-badge&logo=html&logoColor=white)
@@ -24,7 +24,7 @@ Entusiasta de tecnologia e estudante de Java, focado em aprender, praticar e con
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me achar
 
 <p align="left">
   <a href="https://github.com/AlfredoRuasNeto/">

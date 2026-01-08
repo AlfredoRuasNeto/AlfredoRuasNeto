@@ -45,6 +45,16 @@ Entusiasta de tecnologia e estudante de Java, focado em aprender, praticar e con
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Packet Tracer-38BDAE?style=for-the-badge&logo=cisco">
     <img alt="tagsNight" src="https://img.shields.io/badge/Packet Tracer-232F3E?style=for-the-badge&logo=cisco">
   </picture>
+ </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-38BDAE?style=for-the-badge&logo=git">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git">
+  </picture><picture>
+    </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=Arduino">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arduino-38BDAE?style=for-the-badge&logo=Arduino">
+    <img alt="tagsNight" src="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=Arduino">
+  </picture><picture>
 </p>
 ---
 ### Academic Experience

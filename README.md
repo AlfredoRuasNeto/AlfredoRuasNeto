@@ -56,7 +56,9 @@ Entusiasta de tecnologia e estudante de Java, focado em aprender, praticar e con
     <img alt="tagsNight" src="https://img.shields.io/badge/Arduino-232F3E?style=for-the-badge&logo=Arduino">
   </picture><picture>
 </p>
+   
 ---
+   
 ### Academic Experience
 
 [<img align="left" width="124px" alt="UnifacsLogo" src="https://estaticos.animaeducacao.com.br/None/unifacs.webp"/>](https://www.unifacs.br/)

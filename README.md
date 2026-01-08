@@ -92,9 +92,13 @@ Featured Project: [Rhythm Gml](https://dhekki.github.io/RhythmGml/)
   <a href="https://github.com/AlfredoRuasNeto/">
     <img src="https://img.shields.io/badge/GitHub-ALFREDORUASNETO-181717?style=for-the-badge&logo=github" />
   </a>
+</p>
+<p>
   <a href="https://www.instagram.com/alfredo_ruas_neto/">
     <img src="https://img.shields.io/badge/Instagram-@Alfredo Ruas-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+<p>
   <a href="https://www.linkedin.com/in/alfredo-ruas-neto-86b813275/">
     <img src="https://img.shields.io/badge/Linkedin-@Alfredo Ruas Neto-000000?style=for-the-badge&logo=linkedin" />
   </a>

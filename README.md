@@ -26,6 +26,10 @@ Entusiasta de tecnologia e estudante de Java, focado em aprender, praticar e con
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/C%2B%2B-232F3E?style=for-the-badge&logo=c%2B%2B">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%2B%2B-38BDAE?style=for-the-badge&logo=c%2B%2B">
     <img alt="tagsNight" src="https://img.shields.io/badge/C%2B%2B-232F3E?style=for-the-badge&logo=c%2B%2B">
+    </picture><picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql">
+    <img alt="tagsNight" src="https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql">
   </picture>
 </p>
 
